@@ -1,0 +1,1 @@
+#Exercício de fixação 3: Crie um programa que cadastre locais históricos do mundo com suas coordenadas, fazendo uso de tuplas com parâmetros nomeados. Dica: use a função namedtuple().
